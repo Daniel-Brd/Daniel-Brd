@@ -3,7 +3,7 @@
 # Hi 👋, I'm Daniel Brandão
   
 <a href="https://github.com/Daniel-Brd">
-<img width="50%"  align="right" src="https://github-readme-stats.vercel.app/api?username=Daniel-Brd&theme=noctis_minimus&show_icons=true" />
+<img width="48%"  align="right" src="https://github-readme-stats.vercel.app/api?username=Daniel-Brd&theme=noctis_minimus&show_icons=true" />
 </a>
 
 Music is my passion, and technology is my fascination.
@@ -15,7 +15,7 @@ Here, I share my journey and projects.
 # 🚀 Skills
 
 <a href="https://github.com/Daniel-Brd">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Brd&theme=noctis_minimus&layout=compact" />
+  <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Brd&theme=noctis_minimus&layout=compact" />
 </a>
 
 <br/>
