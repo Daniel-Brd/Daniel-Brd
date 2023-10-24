@@ -44,8 +44,6 @@ Tools:
 <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Illustrator"> 
 <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop">
 
-<br/>
-
 #
 
 <div align="center">
