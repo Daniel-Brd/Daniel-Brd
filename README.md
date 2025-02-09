@@ -8,7 +8,7 @@
 
 Music is my passion, and technology is my fascination.
 
-At 22, I'm on the path to becoming a full-stack developer, eager to understand the language of machines.
+At 24, I'm on the path to becoming a full-stack developer, eager to understand the language of machines.
 
 Here, I share my journey and projects.
 
